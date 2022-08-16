@@ -1,0 +1,3 @@
+The average neighborhood size is: 6.2094
+The size of the largest neighborhood is: 49
+The top 10 points with the biggest neighborhoods are:[(384, 420), (351, 415), (378, 426), (371, 429), (349, 416), (445, 437), (358, 416), (359, 431), (454, 416), (376, 431)]
